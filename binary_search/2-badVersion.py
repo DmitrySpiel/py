@@ -1,4 +1,4 @@
-#isBadVersion def is not defined here.this is an example to be used in the future
+#isBadVersion def is not defined here.this is an example to be used in the
 
 class Solution:
     def firstBadVersion(self, n: int) -> int:
